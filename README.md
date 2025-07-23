@@ -7,6 +7,7 @@ This project implements a Decision Tree-based classifier to predict whether an e
 - Sample predictions in a structured table  
 
 **Key Features:**
+
 ✔ Clean, well-documented Python code  
 ✔ Jupyter Notebook for interactive testing  
 ✔ Visualizations for model performance  
